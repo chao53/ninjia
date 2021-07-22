@@ -1,0 +1,3 @@
+print('Hello world!')
+xlua.private_accessible(CS.Bullet);
+CS.Bullet.speed=10
